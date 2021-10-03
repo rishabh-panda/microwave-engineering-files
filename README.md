@@ -1,2 +1,2 @@
 # MicrowaveEngineering
-CST Studio Suite Software
+Software Used: CST Studio Suite (Student Version)
